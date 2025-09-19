@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 60%;
+    text-align: center;
+}
+td {
+    padding: 20px;
+    border: 2px solid #fff;
+}
+/* Kleurcellen 16 stuks */
+#cel1 { background-color: #FFD700; }
+#cel2 { background-color: #FF6347; }
+#cel3 { background-color: #ADFF2F; }
+#cel4 { background-color: #87CEEB; }
+#cel5 { background-color: #FF69B4; }
+#cel6 { background-color: #FFA500; }
+#cel7 { background-color: #9370DB; }
+#cel8 { background-color: #40E0D0; }
+#cel9 { background-color: #00FA9A; }
+#cel10 { background-color: #DC143C; }
+#cel11 { background-color: #1E90FF; }
+#cel12 { background-color: #FFDAB9; }
+#cel13 { background-color: #B0C4DE; }
+#cel14 { background-color: #FF4500; }
+#cel15 { background-color: #32CD32; }
+#cel16 { background-color: #BA55D3; }
+
+/* Extra kleuraccent voor woorden */
+#cel1, #cel3, #cel5, #cel7, #cel9, #cel11, #cel13, #cel15 {
+    font-weight: bold;
+    color: #000;
+}
